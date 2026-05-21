@@ -6,3 +6,6 @@
 To get college credits
 ## What I Want to Build
 A website perchance
+
+# collaborator
+- vincent, hi so uh make sure the code actually works yk?
